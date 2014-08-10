@@ -1,4 +1,4 @@
 HackerRank
 ==========
 
-This repository is containing hackerrank solutions
+This repository contains hackerrank solutions
