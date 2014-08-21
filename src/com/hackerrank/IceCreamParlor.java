@@ -1,4 +1,6 @@
 /*
+ 
+
 Sunny and Johnny together have M dollars and want to spend the amount at an ice cream parlour. The parlour offers N flavors, and they want to choose 2 flavors so that they end up spending the whole amount.
 
 You are given a list of cost of these N flavors. The cost of ith flavor is denoted by (ci). You have to display the indices of two flavors whose sum is M.
@@ -70,7 +72,7 @@ public class IceCreamParlor {
 		in.close();
 	}
 
-	public static boolean isInRange(int min, int max, int val) {
+	private static boolean isInRange(int min, int max, int val) {
 		return (val >= min && val <= max);
 	}
 
